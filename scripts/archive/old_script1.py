@@ -1,0 +1,1 @@
+print("old script test")

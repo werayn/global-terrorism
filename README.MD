@@ -4,7 +4,7 @@
 ## Description
 
 Welcome !
-This is a Data Science project focus in Global Terrorism, built with `Python3` and `pandas`.
+This is a Data Science project focus in Global Terrorism, built with `Python3`, `jupyter`, `Sphynx` and `docker`.
 
 ## Getting started
 
@@ -19,7 +19,7 @@ Here an exemple of the needed packages with Visual Studio Code IDE:
 
 #### Python3
 
-Since it's a Python-Based project, you need to install some stuff on your computer:
+Since it's a Python-Based project, you need to install some software :
 
 - macOS:
   Follow the [install instructions for your MacOs distribution](https://python/mac) to install `python`.
@@ -41,11 +41,11 @@ Since it's a Python-Based project, you need to install some stuff on your comput
 
 ### Install the project
 
-First you need to clone the repository:
+First you need to clone the repository:  
 Do not forget to upload your SSH Key into github and having the right access.
 
 ```bash
-git clone git@github.com:werayn/draw-my-website
+git clone https://github.com/werayn/global-terrorism
 ```
 
 From within the root directory, first remove git tracking from the project

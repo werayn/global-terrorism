@@ -70,7 +70,8 @@ When everything is installed, if you want to run it in local, do the following:
 make docker-run
 ```
 
-This will open a bash shell within the Docker container. Within the container the 'project' directory o You can now access the full file structure of the project from within the container.
+This will open a bash shell within the Docker container.  
+You can now access the full file structure of the project from within the container.
 
 You can open an interactive environment by running :
 

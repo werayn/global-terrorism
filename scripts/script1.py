@@ -1,1 +1,0 @@
-print("his a test for script1")

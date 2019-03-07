@@ -22,20 +22,14 @@ Here an exemple of the needed packages with Visual Studio Code IDE:
 Since it's a Python-Based project, you need to install some stuff on your computer:
 
 - macOS:
-  Install [Homebrew](https://brew.sh) as package manager and install the following dependencies:
+  Follow the [install instructions for your MacOs distribution](https://python/mac) to `python`.
 
-```bash
-brew install python3
-```
 ---
 
 - Windows:
   Note that you can't run iOS app on windows.
-  Install [Chocolatey](https://chocolatey.org) as package manager and install the following dependencies:
+  Follow the [install instructions for your windows distribution](https://python/windows) to `python`.
 
-```bash
-choco install -y python3
-```
 ---
 
 - Linux:
@@ -51,24 +45,12 @@ Do not forget to upload your SSH Key into github and having the right access.
 git clone git@github.com:werayn/draw-my-website
 ```
 
-After you need to install all the dependencies before trying to run it:
-
-```bash
-yarn install
-```
-
-or simply
-
-```bash
-yarn
-```
-
 ### Run it
 
 When everything is installed, if you want to run it in local, do the following:
 
 ```bash
-yarn start:dev
+TODO
 ```
 
 ### Test it
@@ -76,34 +58,19 @@ yarn start:dev
 when everything is installed and run well, if you want to run every unit tests, do the following:
 
 ```bash
-yarn test
+TODO
 ```
 
 ## Deployement
 
 You need to install all the dependencies before trying to deploy it:
 
-```bash
-yarn install
-```
-
-or simply
-
-```bash
-yarn
-```
-
-When everything is installed, if you want to deploy it, do the following:
-
-```bash
-yarn start:prod
-```
-
 ## Documentation
 
 if you want to know everything about our project just run :
 
 ```bash
+TODO
 ```
 
 ## Contributing
@@ -116,7 +83,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## License
 
-
-## Acknowledgments
-* Thank's to 'name of the dataset creator'
----

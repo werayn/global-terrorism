@@ -24,17 +24,12 @@ Since it's a Python-Based project, you need to install some stuff on your comput
 - macOS:
   Follow the [install instructions for your MacOs distribution](https://python/mac) to install `python`.
 
----
-
 - Windows:
   Note that you can't run iOS app on windows.
   Follow the [install instructions for your windows distribution](https://python/windows) to install `python`.
 
----
-
 - Linux:
   Follow the [install instructions for your linux distribution](https://python/linux) to install `python`.
----
 
 #### Docker
 

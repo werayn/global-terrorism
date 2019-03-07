@@ -56,7 +56,7 @@ else
 endif
 
 # Test the environment
-test:
+test-env:
 	@python test_environment.py
 	@$(ECHO) $(GREEN) "[OK] :" $(TEAL) "Nice env !" $(DEFAULT)
 
@@ -75,4 +75,4 @@ help:
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(DOCSOURCE)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-.PHONY: clean docker-build docker-run local-jupyter test gen-doc help Makefile
+.PHONY: clean docker-build docker-run local-jupyter test-env gen-doc help Makefile

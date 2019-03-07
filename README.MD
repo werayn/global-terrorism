@@ -95,7 +95,7 @@ exit
 First test your environment like this
 
 ```bash
-make test
+make test-env
 ```
 
 when everything is installed and run well, if you want to run every unit tests, do the following:
